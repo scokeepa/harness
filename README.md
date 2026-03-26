@@ -123,4 +123,4 @@ Claude Code에서 다음과 같이 트리거한다:
 
 ## 라이선스
 
-MIT
+Apache 2.0

@@ -7,7 +7,7 @@
     "url": "https://github.com/revfactory"
   },
   "repository": "https://github.com/revfactory/harness",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "harness",
     "agent-team",
