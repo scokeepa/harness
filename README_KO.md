@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="harness_banner.png" alt="Harness Banner" width="600">
+</p>
+
 # Harness
 
 **Agent Team & Skill Architect** — Claude Code 플러그인
@@ -87,6 +91,10 @@ Claude Code에서 다음과 같이 트리거한다:
 |------|------|----------|
 | **에이전트 팀** (기본) | TeamCreate + SendMessage + TaskCreate | 2개 이상 에이전트, 협업 필요 |
 | **서브 에이전트** | Agent 도구 직접 호출 | 단발성 작업, 통신 불필요 |
+
+<p align="center">
+  <img src="harness_team.png" alt="Harness Agent Team" width="500">
+</p>
 
 ### 아키텍처 패턴
 

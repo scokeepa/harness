@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="harness_banner.png" alt="Harness Banner" width="600">
+</p>
+
 # Harness
 
 **Agent Team & Skill Architect** — A Claude Code Plugin
@@ -89,6 +93,10 @@ Set up a harness
 |------|-------------|-----------------|
 | **Agent Teams** (default) | TeamCreate + SendMessage + TaskCreate | 2+ agents requiring collaboration |
 | **Subagents** | Direct Agent tool invocation | One-off tasks, no inter-agent communication needed |
+
+<p align="center">
+  <img src="harness_team.png" alt="Harness Agent Team" width="500">
+</p>
 
 ### Architecture Patterns
 
